@@ -1,4 +1,6 @@
-//kiloToMeter Problem
+// https://github.com/mdsakhawatullah/assignment
+
+//1.kilometerToMeter Problem
 
 function kilometerToMeter(kilometer){
     var result = kilometer * 1000;
